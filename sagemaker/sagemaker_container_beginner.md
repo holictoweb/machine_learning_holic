@@ -1,4 +1,5 @@
 ### ec2 에서 sagemaker session 생성
+### [sagemaker sample code github](https://github.com/aws/amazon-sagemaker-examples)
 
 1. private network 사용 시 필요한 endpoint
 
